@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ConfederateGatling()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ GatlingSoldier\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ gatlingFire()
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ Check\ whether\ a\ control\ key\ on\ the\ keyboard\ has\ been\ pressed.\r\n\ If\ it\ has,\ react\ accordingly.\r\n
+comment4.params=
+comment4.target=void\ fireGatling()
+comment4.text=\r\n\ Fire\ a\ bullet\ if\ the\ gatling\ gun\ is\ ready.\r\n
+comment5.params=
+comment5.target=void\ lookForUnion()
+comment6.params=
+comment6.target=void\ lookForGrant()
+numComments=7

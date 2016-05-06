@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Battlefield()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Battlefield.\r\n\ \r\n
+comment1.params=
+comment1.target=ConfedCounter\ getConfedCounter()
+comment10.params=
+comment10.target=void\ secondWave()
+comment2.params=
+comment2.target=Rope\ getRope()
+comment3.params=
+comment3.target=Counter\ getCounter()
+comment4.params=
+comment4.target=GeneralLee\ getLee()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+comment7.params=
+comment7.target=void\ reinforcements()
+comment8.params=
+comment8.target=void\ generalReinforcements()
+comment9.params=
+comment9.target=void\ yankeeReinforcements()
+numComments=11

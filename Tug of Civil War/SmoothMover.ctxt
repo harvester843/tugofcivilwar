@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SmoothMover()
+comment1.params=velocity
+comment1.target=SmoothMover(Vector)
+comment1.text=\r\n\ Create\ new\ Mover\ initialised\ with\ given\ velocity.\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Move\ in\ the\ direction\ of\ the\ velocity\ vector.\ This\ simulates\ movement\ in\ one\ \r\n\ time\ unit\ (dt\=\=1).\ Wrap\ around\ to\ the\ opposite\ edge\ of\ the\ screen\ if\ moving\ out\ of\ the\ world.\r\n
+comment3.params=x\ y
+comment3.target=void\ setLocation(double,\ double)
+comment3.text=\r\n\ Set\ the\ location\ using\ exact\ (double)\ co-ordinates.\r\n
+comment4.params=x\ y
+comment4.target=void\ setLocation(int,\ int)
+comment4.text=\r\n\ Set\ the\ location\ of\ this\ actor.\ Redefinition\ of\ the\ standard\ Greenfoot\ \r\n\ method\ to\ make\ sure\ the\ exact\ co-ordinates\ are\ updated\ in\ sync.\r\n
+comment5.params=
+comment5.target=double\ getExactX()
+comment5.text=\r\n\ Return\ the\ exact\ x-coordinate\ (as\ a\ double).\r\n
+comment6.params=
+comment6.target=double\ getExactY()
+comment6.text=\r\n\ Return\ the\ exact\ y-coordinate\ (as\ a\ double).\r\n
+comment7.params=boost
+comment7.target=void\ addToVelocity(Vector)
+comment7.text=\r\n\ Modify\ velocity\ by\ adding\ another\ velocity\ vector.\r\n
+numComments=8

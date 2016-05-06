@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ Act\ -\ do\ whatever\ the\ Rope\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment1.params=
+comment1.target=void\ moveRope()
+comment2.params=
+comment2.target=void\ gatling()
+comment2.text=\r\n\ If\ the\ rope\ is\ at\ the\ edge\ of\ the\ map\ it\ deploys\ a\ gatling\ gun\ and\ removes\ itself.\r\n
+comment3.params=
+comment3.target=void\ confedGatling()
+comment3.text=\r\n\ Adds\ a\ confederate\ or\ union\ gatling\ gun.\r\n
+numComments=4

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=speed\ rotation
+comment0.target=ConfederateBullet(Vector,\ int)
+comment1.params=
+comment1.target=ConfederateBullet()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Bullet\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkUnionHit()
+comment3.text=\r\n\ Check\ whether\ we\ have\ hit\ an\ Union\ Reinforcement.\r\n
+comment4.params=
+comment4.target=void\ checkEnemy()
+comment5.params=
+comment5.target=void\ checkArty()
+comment5.text=\r\n\ Check\ whether\ we\ have\ hit\ an\ Union\ Artillery.\r\n
+numComments=6
